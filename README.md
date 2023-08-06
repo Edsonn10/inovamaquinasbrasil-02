@@ -11,20 +11,7 @@
 <!-- outputs by wp_head -->
 <title>Phlox Digital Shop &#8211; Just another Complete Elementor Demos &#8211; Phlox WordPress Theme site</title>
 <meta name='robots' content='max-image-preview:large' />
-	<script>
-	( function() {
-		var query = document.location.search;
-
-		if ( query && query.indexOf( 'preview=true' ) !== -1 ) {
-			window.name = 'wp-preview-4652';
-		}
-
-		if ( window.addEventListener ) {
-			window.addEventListener( 'unload', function() { window.name = ''; }, false );
-		}
-	}());
-	</script>
-	<link rel='dns-prefetch' href='//dev-inovamaquinasbrasil.pantheonsite.io' />
+<link rel='dns-prefetch' href='//dev-inovamaquinasbrasil.pantheonsite.io' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel="alternate" type="application/rss+xml" title="Feed para Phlox Digital Shop &raquo;" href="https://dev-inovamaquinasbrasil.pantheonsite.io/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Feed de comentários para Phlox Digital Shop &raquo;" href="https://dev-inovamaquinasbrasil.pantheonsite.io/comments/feed/" />
@@ -47,12 +34,7 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='dashicons-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/css/dashicons.min.css?ver=6.2.2' media='all' />
-<link rel='stylesheet' id='admin-bar-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/css/admin-bar.min.css?ver=6.2.2' media='all' />
-<link rel='stylesheet' id='elementor-icons-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.20.0' media='all' />
-<link rel='stylesheet' id='elementor-common-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/css/common.min.css?ver=3.14.1' media='all' />
-<link rel='stylesheet' id='e-theme-ui-light-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/css/theme-light.min.css?ver=3.14.1' media='all' />
-<link rel='stylesheet' id='wp-block-library-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' media='all' />
+	<link rel='stylesheet' id='wp-block-library-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' media='all' />
 <link rel='stylesheet' id='classic-theme-styles-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/css/classic-themes.min.css?ver=6.2.2' media='all' />
 <style id='global-styles-inline-css'>
 body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
@@ -61,23 +43,26 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
 <link rel='stylesheet' id='chaty-front-css-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/chaty/css/chaty-front.min.css?ver=3.1.21690575856' media='all' />
+<link rel='stylesheet' id='markdown_git-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/documents-from-git/css/markdown-git.css?ver=6.2.2' media='all' />
+<link rel='stylesheet' id='github_markdown-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/documents-from-git/css/github-markdown.css?ver=6.2.2' media='all' />
+<link rel='stylesheet' id='nbconvert_git-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/documents-from-git/css/nbconvert.css?ver=6.2.2' media='all' />
 <link rel='stylesheet' id='auxin-base-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/themes/phlox/css/base.css?ver=2.14.0' media='all' />
 <link rel='stylesheet' id='auxin-front-icon-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/themes/phlox/css/auxin-icon.css?ver=2.14.0' media='all' />
 <link rel='stylesheet' id='auxin-main-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/themes/phlox/css/main.css?ver=2.14.0' media='all' />
 <link rel='stylesheet' id='elementor-icons-ekiticons-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.9.0' media='all' />
 <link rel='stylesheet' id='elementor-frontend-legacy-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.14.1' media='all' />
 <link rel='stylesheet' id='elementor-frontend-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.14.1' media='all' />
+<link rel='stylesheet' id='eael-general-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.8.3' media='all' />
+<link rel='stylesheet' id='eael-4652-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/essential-addons-elementor/eael-4652.css?ver=1690975143' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.20.0' media='all' />
 <link rel='stylesheet' id='swiper-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6' media='all' />
 <link rel='stylesheet' id='elementor-post-4616-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/elementor/css/post-4616.css?ver=1690942158' media='all' />
 <link rel='stylesheet' id='auxin-elementor-base-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/themes/phlox/css/other/elementor.css?ver=2.14.0' media='all' />
 <link rel='stylesheet' id='auxin-elementor-widgets-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/auxin-elements/admin/assets/css/elementor-widgets.css?ver=2.14.0' media='all' />
 <link rel='stylesheet' id='mediaelement-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' media='all' />
 <link rel='stylesheet' id='wp-mediaelement-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.2.2' media='all' />
-<link rel='stylesheet' id='elementskit-css-widgetarea-control-editor-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementskit-lite/modules/controls/assets/css/widgetarea-editor.css?ver=2.9.0' media='all' />
 <link rel='stylesheet' id='font-awesome-5-all-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.14.1' media='all' />
 <link rel='stylesheet' id='font-awesome-4-shim-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.14.1' media='all' />
-<link rel='stylesheet' id='eael-general-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.8.3' media='all' />
-<link rel='stylesheet' id='eael-4652-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/essential-addons-elementor/eael-4652.css?ver=1690975143' media='all' />
 <link rel='stylesheet' id='elementor-post-4652-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/elementor/css/post-4652.css?ver=1690994165' media='all' />
 <link rel='stylesheet' id='fluentform-elementor-widget-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/fluentform/assets/css/fluent-forms-elementor-widget.css?ver=5.0.7' media='all' />
 <link rel='stylesheet' id='auxin-fonts-google-css' href='//fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=8.6' media='all' />
@@ -87,7 +72,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='elementor-post-4890-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/elementor/css/post-4890.css?ver=1690983483' media='all' />
 <link rel='stylesheet' id='ekit-widget-styles-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.9.0' media='all' />
 <link rel='stylesheet' id='ekit-responsive-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.9.0' media='all' />
-<link rel='stylesheet' id='eael-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/essential-addons-elementor/eael.css?ver=1690975143' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CAverage+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CQuestrial%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.2.2' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
@@ -96,7 +80,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.14.1' id='font-awesome-4-shim-js'></script>
 <script id='auxin-modernizr-js-extra'>
-var auxin = {"ajax_url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin-ajax.php","is_rtl":"","is_reponsive":"1","is_framed":"","frame_width":"20","wpml_lang":"en","uploadbaseurl":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-content\/uploads","nonce":"94ddbb6f2a"};
+var auxin = {"ajax_url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin-ajax.php","is_rtl":"","is_reponsive":"1","is_framed":"","frame_width":"20","wpml_lang":"en","uploadbaseurl":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-content\/uploads","nonce":"4dafa457a5"};
 </script>
 <script id='auxin-modernizr-js-before'>
 /* < ![CDATA[ */
@@ -122,14 +106,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 <meta name="generator" content="Elementor 3.14.1; features: a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
-<style media="print">#wpadminbar { display:none; }</style>
-	<style media="screen">
-	html { margin-top: 32px !important; }
-	@media screen and ( max-width: 782px ) {
-		html { margin-top: 46px !important; }
-	}
-</style>
-			<style id="wp-custom-css">
+		<style id="wp-custom-css">
 			/* Shop Page  */
 .post-type-archive .page-title-section  .page-header .aux-container{
    text-align: center;
@@ -1395,26 +1372,9 @@ color: var(--e-global-color-text);
 </head>
 
 
-<body class="home page-template-default page page-id-4652 logged-in admin-bar no-customize-support wp-custom-logo elementor-default elementor-kit-4616 elementor-page elementor-page-4652 phlox aux-dom-unready aux-full-width aux-resp aux-s-fhd  aux-page-animation-off _auxels"  data-framed="">
+<body class="home page-template-default page page-id-4652 wp-custom-logo elementor-default elementor-kit-4616 elementor-page elementor-page-4652 phlox aux-dom-unready aux-full-width aux-resp aux-s-fhd  aux-page-animation-off _auxels"  data-framed="">
 
-	<script>
-		(function() {
-			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
-
-				request = true;
-	
-			b[c] = b[c].replace( rcs, ' ' );
-			// The customizer requires postMessage and CORS (if the site is cross domain).
-			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
-		}());
-	</script>
-			<div id="wpadminbar" class="nojq nojs">
-						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Barra de ferramentas">
-				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">Sobre o WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/about.php'>Sobre o WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://br.wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://wordpress.org/documentation/'>Documentação</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://br.wordpress.org/support/forums/'>Suporte</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/'>Phlox Digital Shop</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/'>Painel</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/themes.php'>Temas</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/nav-menus.php'>Menus</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/customize.php?url=https%3A%2F%2Fdev-inovamaquinasbrasil.pantheonsite.io%2F%3Fpreview_id%3D4652%26preview_nonce%3D5f287a929f%26preview%3Dtrue'>Personalizar</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">9</span><span class="screen-reader-text updates-available-text">9 atualizações disponíveis</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 comentário esperando moderação</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">Novo</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/post-new.php'>Post</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/media-new.php'>Mídia</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/post-new.php?post_type=page'>Página</a></li><li id='wp-admin-bar-new-e-landing-page'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/edit.php?action=elementor_new_post&#038;post_type=e-landing-page&#038;template_type=landing-page&#038;_wpnonce=952ae5559e#library'>Landing Page</a></li><li id='wp-admin-bar-new-elementor_library'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/post-new.php?post_type=elementor_library'>Template</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/user-new.php'>Usuário</a></li></ul></div></li><li id='wp-admin-bar-edit'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/post.php?post=4652&#038;action=edit'>Editar página</a></li><li id='wp-admin-bar-aux-header-footer' class="menupop"><div class="ab-item ab-empty-item" aria-haspopup="true"><div class="aux-header-footer-edit-links">Edit Header & Footer</div></div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-aux-header-footer-default' class="ab-submenu"><li id='wp-admin-bar-aux-current-header'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/post.php?post=4533&#038;action=edit' target='_blank'><span>header</span><span class="aux-state">current header</span></a></li><li id='wp-admin-bar-aux-current-footer'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/post.php?post=4534&#038;action=edit' target='_blank'><span>footer</span><span class="aux-state">current footer</span></a></li><li id='wp-admin-bar-aux-global-header'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/post.php?post=4896&#038;action=edit' target='_blank'><span>&#8230;&#8230;&#8230;novo</span><span class="aux-state">header</span></a></li><li id='wp-admin-bar-aux-global-footer'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/post.php?post=4890&#038;action=edit' target='_blank'><span>02.00 DA MANHA NOVO</span><span class="aux-state">footer</span></a></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://dev-inovamaquinasbrasil.pantheonsite.io/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Pesquisar</label><input type="submit" class="adminbar-button" value="Pesquisar" /></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/profile.php'>Olá, <span class="display-name">Eds10rocha</span><img alt='' src='https://secure.gravatar.com/avatar/d24273e107adeaecc49a8deedfe78895?s=26&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d24273e107adeaecc49a8deedfe78895?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' loading='lazy' decoding='async'/></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/profile.php'><img alt='' src='https://secure.gravatar.com/avatar/d24273e107adeaecc49a8deedfe78895?s=64&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d24273e107adeaecc49a8deedfe78895?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' loading='lazy' decoding='async'/><span class='display-name'>Eds10rocha</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-admin/profile.php'>Editar perfil</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-login.php?action=logout&#038;_wpnonce=a4a33cbdd0'>Sair</a></li></ul></div></li></ul>			</div>
-						<a class="screen-reader-shortcut" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-login.php?action=logout&#038;_wpnonce=a4a33cbdd0">Sair</a>
-					</div>
-
-		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
 <div id="inner-body">
 
     <header class="aux-elementor-header" id="site-elementor-header" itemscope="itemscope" itemtype="https://schema.org/WPHeader" data-sticky-height="80"  >
@@ -1512,7 +1472,7 @@ color: var(--e-global-color-text);
 				</div>
 				<div class="elementor-element elementor-element-0b763ef aux-appear-watch-animation aux-fade-in elementor-widget elementor-widget-aux_image" data-id="0b763ef" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au0c4e0a6c">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-auf8d5d1c8">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1.png" data-elementor-open-lightbox="no" data-original-width="627" data-original-height="557" data-caption="15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1" target="_self"  >
@@ -1586,7 +1546,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-a4a5c03 aux-appear-watch-animation aux-fade-in-down elementor-widget elementor-widget-aux_image" data-id="a4a5c03" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au1440f7f9">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au8fd20387">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -1642,7 +1602,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-0a3b14f aux-appear-watch-animation aux-fade-in-down elementor-widget__width-initial elementor-widget elementor-widget-aux_image" data-id="0a3b14f" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au4fbce82d">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au00b6db96">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/57d82d38-6232-44f5-b938-55321ae7b5d9-1.jpg" data-elementor-open-lightbox="no" data-original-width="1394" data-original-height="806" data-caption="57d82d38-6232-44f5-b938-55321ae7b5d9 (1)" target="_self"  >
@@ -1715,7 +1675,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-3720841b aux-appear-watch-animation aux-fade-in elementor-widget elementor-widget-aux_image" data-id="3720841b" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au3ee5191f">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aue237f6e3">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1.png" data-elementor-open-lightbox="no" data-original-width="627" data-original-height="557" data-caption="15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1" target="_self"  >
@@ -1801,7 +1761,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-5f7dce31 aux-appear-watch-animation aux-fade-in-down elementor-widget elementor-widget-aux_image" data-id="5f7dce31" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au6f02396a">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-audaa0cbc4">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -1857,7 +1817,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1f0eab52 aux-appear-watch-animation aux-fade-in-down elementor-widget__width-initial elementor-widget elementor-widget-aux_image" data-id="1f0eab52" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au91f83df9">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au8b04dc06">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/57d82d38-6232-44f5-b938-55321ae7b5d9-1.jpg" data-elementor-open-lightbox="no" data-original-width="1394" data-original-height="806" data-caption="57d82d38-6232-44f5-b938-55321ae7b5d9 (1)" target="_self"  >
@@ -1930,7 +1890,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-b3333ae aux-appear-watch-animation aux-fade-in elementor-widget elementor-widget-aux_image" data-id="b3333ae" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au8e1d4019">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au1e0b87a8">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1.png" data-elementor-open-lightbox="no" data-original-width="627" data-original-height="557" data-caption="15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1" target="_self"  >
@@ -2016,7 +1976,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1f47eef7 aux-appear-watch-animation aux-fade-in-down elementor-widget elementor-widget-aux_image" data-id="1f47eef7" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au7ecc5b0c">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au577516aa">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -2072,7 +2032,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-2cffff04 aux-appear-watch-animation aux-fade-in-down elementor-widget__width-initial elementor-widget elementor-widget-aux_image" data-id="2cffff04" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au0196ef07">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au232d4edc">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/57d82d38-6232-44f5-b938-55321ae7b5d9-1.jpg" data-elementor-open-lightbox="no" data-original-width="1394" data-original-height="806" data-caption="57d82d38-6232-44f5-b938-55321ae7b5d9 (1)" target="_self"  >
@@ -2145,7 +2105,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-703ab924 aux-appear-watch-animation aux-fade-in elementor-widget elementor-widget-aux_image" data-id="703ab924" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aue6e474e4">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-auff45f17e">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1.png" data-elementor-open-lightbox="no" data-original-width="627" data-original-height="557" data-caption="15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1" target="_self"  >
@@ -2231,7 +2191,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-663af0f9 aux-appear-watch-animation aux-fade-in-down elementor-widget elementor-widget-aux_image" data-id="663af0f9" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au295bd954">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au25911de3">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -2287,7 +2247,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-2f6515fb aux-appear-watch-animation aux-fade-in-down elementor-widget__width-initial elementor-widget elementor-widget-aux_image" data-id="2f6515fb" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au5bba5200">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aub0b7f2e0">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/57d82d38-6232-44f5-b938-55321ae7b5d9-1.jpg" data-elementor-open-lightbox="no" data-original-width="1394" data-original-height="806" data-caption="57d82d38-6232-44f5-b938-55321ae7b5d9 (1)" target="_self"  >
@@ -2360,7 +2320,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-29d99421 aux-appear-watch-animation aux-fade-in elementor-widget elementor-widget-aux_image" data-id="29d99421" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au7b130278">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au615a5a1f">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1.png" data-elementor-open-lightbox="no" data-original-width="627" data-original-height="557" data-caption="15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1" target="_self"  >
@@ -2446,7 +2406,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-758f1fe7 aux-appear-watch-animation aux-fade-in-down elementor-widget elementor-widget-aux_image" data-id="758f1fe7" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au0fa68b74">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-auba5993f0">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -2502,7 +2462,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-3d85dabb aux-appear-watch-animation aux-fade-in-down elementor-widget__width-initial elementor-widget elementor-widget-aux_image" data-id="3d85dabb" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aue98b8f5c">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au38dc72a1">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/57d82d38-6232-44f5-b938-55321ae7b5d9-1.jpg" data-elementor-open-lightbox="no" data-original-width="1394" data-original-height="806" data-caption="57d82d38-6232-44f5-b938-55321ae7b5d9 (1)" target="_self"  >
@@ -2575,7 +2535,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-3c167c6e aux-appear-watch-animation aux-fade-in elementor-widget elementor-widget-aux_image" data-id="3c167c6e" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au1e399ed3">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au03ae5388">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1.png" data-elementor-open-lightbox="no" data-original-width="627" data-original-height="557" data-caption="15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1" target="_self"  >
@@ -2661,7 +2621,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-efe78b aux-appear-watch-animation aux-fade-in-down elementor-widget elementor-widget-aux_image" data-id="efe78b" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-auec81e7aa">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aub469d82c">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -2717,7 +2677,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-25395593 aux-appear-watch-animation aux-fade-in-down elementor-widget__width-initial elementor-widget elementor-widget-aux_image" data-id="25395593" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au3aed3e6e">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au93512f1f">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/57d82d38-6232-44f5-b938-55321ae7b5d9-1.jpg" data-elementor-open-lightbox="no" data-original-width="1394" data-original-height="806" data-caption="57d82d38-6232-44f5-b938-55321ae7b5d9 (1)" target="_self"  >
@@ -2790,7 +2750,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1b554c88 aux-appear-watch-animation aux-fade-in elementor-widget elementor-widget-aux_image" data-id="1b554c88" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au22481196">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au77e255eb">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1.png" data-elementor-open-lightbox="no" data-original-width="627" data-original-height="557" data-caption="15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1" target="_self"  >
@@ -2876,7 +2836,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-3f6865e8 aux-appear-watch-animation aux-fade-in-down elementor-widget elementor-widget-aux_image" data-id="3f6865e8" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au709c8858">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au12af1336">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -2932,7 +2892,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-6bcf24f6 aux-appear-watch-animation aux-fade-in-down elementor-widget__width-initial elementor-widget elementor-widget-aux_image" data-id="6bcf24f6" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aub94fa222">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aub1dd7c4c">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/57d82d38-6232-44f5-b938-55321ae7b5d9-1.jpg" data-elementor-open-lightbox="no" data-original-width="1394" data-original-height="806" data-caption="57d82d38-6232-44f5-b938-55321ae7b5d9 (1)" target="_self"  >
@@ -3005,7 +2965,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-6a405fcc aux-appear-watch-animation aux-fade-in elementor-widget elementor-widget-aux_image" data-id="6a405fcc" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au02b45bcb">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au2f10544e">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1.png" data-elementor-open-lightbox="no" data-original-width="627" data-original-height="557" data-caption="15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1" target="_self"  >
@@ -3091,7 +3051,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-2e316b18 aux-appear-watch-animation aux-fade-in-down elementor-widget elementor-widget-aux_image" data-id="2e316b18" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au617e0b55">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-auc195b3f9">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -3147,7 +3107,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-318d43be aux-appear-watch-animation aux-fade-in-down elementor-widget__width-initial elementor-widget elementor-widget-aux_image" data-id="318d43be" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aue7217b61">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aue375a363">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/57d82d38-6232-44f5-b938-55321ae7b5d9-1.jpg" data-elementor-open-lightbox="no" data-original-width="1394" data-original-height="806" data-caption="57d82d38-6232-44f5-b938-55321ae7b5d9 (1)" target="_self"  >
@@ -3220,7 +3180,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-6defe8a7 aux-appear-watch-animation aux-fade-in elementor-widget elementor-widget-aux_image" data-id="6defe8a7" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aua9557a2e">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au79e6c90e">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1.png" data-elementor-open-lightbox="no" data-original-width="627" data-original-height="557" data-caption="15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1" target="_self"  >
@@ -3306,7 +3266,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-6c59b8ca aux-appear-watch-animation aux-fade-in-down elementor-widget elementor-widget-aux_image" data-id="6c59b8ca" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au367f6a46">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au6a2cb54f">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -3362,7 +3322,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-68325980 aux-appear-watch-animation aux-fade-in-down elementor-widget__width-initial elementor-widget elementor-widget-aux_image" data-id="68325980" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aufa979101">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au4964b339">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/57d82d38-6232-44f5-b938-55321ae7b5d9-1.jpg" data-elementor-open-lightbox="no" data-original-width="1394" data-original-height="806" data-caption="57d82d38-6232-44f5-b938-55321ae7b5d9 (1)" target="_self"  >
@@ -3435,7 +3395,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-36d2d2fc aux-appear-watch-animation aux-fade-in elementor-widget elementor-widget-aux_image" data-id="36d2d2fc" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aud2ac63a1">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au7f4342dd">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1.png" data-elementor-open-lightbox="no" data-original-width="627" data-original-height="557" data-caption="15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1" target="_self"  >
@@ -3521,7 +3481,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-35d7f045 aux-appear-watch-animation aux-fade-in-down elementor-widget elementor-widget-aux_image" data-id="35d7f045" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aua152b75c">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au444cef05">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -3577,7 +3537,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-10f8a473 aux-appear-watch-animation aux-fade-in-down elementor-widget__width-initial elementor-widget elementor-widget-aux_image" data-id="10f8a473" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au53ad8d45">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au008a3acd">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/57d82d38-6232-44f5-b938-55321ae7b5d9-1.jpg" data-elementor-open-lightbox="no" data-original-width="1394" data-original-height="806" data-caption="57d82d38-6232-44f5-b938-55321ae7b5d9 (1)" target="_self"  >
@@ -3650,7 +3610,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-60614f61 aux-appear-watch-animation aux-fade-in elementor-widget elementor-widget-aux_image" data-id="60614f61" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au16ba848d">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aueef059f2">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1.png" data-elementor-open-lightbox="no" data-original-width="627" data-original-height="557" data-caption="15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1" target="_self"  >
@@ -3736,7 +3696,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-4540c2e0 aux-appear-watch-animation aux-fade-in-down elementor-widget elementor-widget-aux_image" data-id="4540c2e0" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-auf9ea6e31">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au19262b30">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -3792,7 +3752,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-7b581290 aux-appear-watch-animation aux-fade-in-down elementor-widget__width-initial elementor-widget elementor-widget-aux_image" data-id="7b581290" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aued313bcf">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aud7de8656">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/57d82d38-6232-44f5-b938-55321ae7b5d9-1.jpg" data-elementor-open-lightbox="no" data-original-width="1394" data-original-height="806" data-caption="57d82d38-6232-44f5-b938-55321ae7b5d9 (1)" target="_self"  >
@@ -3865,7 +3825,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-c8c6846 aux-appear-watch-animation aux-fade-in elementor-widget elementor-widget-aux_image" data-id="c8c6846" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au6742890c">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au3b4ffbcf">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1.png" data-elementor-open-lightbox="no" data-original-width="627" data-original-height="557" data-caption="15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1" target="_self"  >
@@ -3951,7 +3911,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-4485497b aux-appear-watch-animation aux-fade-in-down elementor-widget elementor-widget-aux_image" data-id="4485497b" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au463e36ea">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au68a8dbf9">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -4007,7 +3967,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-28f71d1c aux-appear-watch-animation aux-fade-in-down elementor-widget__width-initial elementor-widget elementor-widget-aux_image" data-id="28f71d1c" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aua14d4967">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-auae8a5060">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/57d82d38-6232-44f5-b938-55321ae7b5d9-1.jpg" data-elementor-open-lightbox="no" data-original-width="1394" data-original-height="806" data-caption="57d82d38-6232-44f5-b938-55321ae7b5d9 (1)" target="_self"  >
@@ -4080,7 +4040,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-2c8e7a09 aux-appear-watch-animation aux-fade-in elementor-widget elementor-widget-aux_image" data-id="2c8e7a09" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au4a279bc8">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au2f83bbd7">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1.png" data-elementor-open-lightbox="no" data-original-width="627" data-original-height="557" data-caption="15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1" target="_self"  >
@@ -4166,7 +4126,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-5fd4fc34 aux-appear-watch-animation aux-fade-in-down elementor-widget elementor-widget-aux_image" data-id="5fd4fc34" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-auc10aae9a">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au47e7d1ed">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -4222,7 +4182,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-23074a08 aux-appear-watch-animation aux-fade-in-down elementor-widget__width-initial elementor-widget elementor-widget-aux_image" data-id="23074a08" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-auf40f91bd">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au3d461f91">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/57d82d38-6232-44f5-b938-55321ae7b5d9-1.jpg" data-elementor-open-lightbox="no" data-original-width="1394" data-original-height="806" data-caption="57d82d38-6232-44f5-b938-55321ae7b5d9 (1)" target="_self"  >
@@ -4295,7 +4255,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-26c5b4d2 aux-appear-watch-animation aux-fade-in elementor-widget elementor-widget-aux_image" data-id="26c5b4d2" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au7f9a2931">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au328a0e42">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1.png" data-elementor-open-lightbox="no" data-original-width="627" data-original-height="557" data-caption="15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1" target="_self"  >
@@ -4381,7 +4341,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-665489c4 aux-appear-watch-animation aux-fade-in-down elementor-widget elementor-widget-aux_image" data-id="665489c4" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au34eb3faa">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-auca064fc7">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -4437,7 +4397,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-2d252cbf aux-appear-watch-animation aux-fade-in-down elementor-widget__width-initial elementor-widget elementor-widget-aux_image" data-id="2d252cbf" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aua46b0f48">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au90bac937">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/57d82d38-6232-44f5-b938-55321ae7b5d9-1.jpg" data-elementor-open-lightbox="no" data-original-width="1394" data-original-height="806" data-caption="57d82d38-6232-44f5-b938-55321ae7b5d9 (1)" target="_self"  >
@@ -4510,7 +4470,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-2033e375 aux-appear-watch-animation aux-fade-in elementor-widget elementor-widget-aux_image" data-id="2033e375" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au10e82e0b">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au2dd60038">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1.png" data-elementor-open-lightbox="no" data-original-width="627" data-original-height="557" data-caption="15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1" target="_self"  >
@@ -4596,7 +4556,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-2daeeaa9 aux-appear-watch-animation aux-fade-in-down elementor-widget elementor-widget-aux_image" data-id="2daeeaa9" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au0962b332">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au9d65d8c5">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -4652,7 +4612,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-615fea2 aux-appear-watch-animation aux-fade-in-down elementor-widget__width-initial elementor-widget elementor-widget-aux_image" data-id="615fea2" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au0f6e5c36">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-auc869466e">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/57d82d38-6232-44f5-b938-55321ae7b5d9-1.jpg" data-elementor-open-lightbox="no" data-original-width="1394" data-original-height="806" data-caption="57d82d38-6232-44f5-b938-55321ae7b5d9 (1)" target="_self"  >
@@ -4725,7 +4685,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-72eac12c aux-appear-watch-animation aux-fade-in elementor-widget elementor-widget-aux_image" data-id="72eac12c" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au98c28caa">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au1a40fd3e">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1.png" data-elementor-open-lightbox="no" data-original-width="627" data-original-height="557" data-caption="15ce4fde-dde8-4a96-8fe7-6c0f1cfd34f5-1" target="_self"  >
@@ -4811,7 +4771,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-26601bb2 aux-appear-watch-animation aux-fade-in-down elementor-widget elementor-widget-aux_image" data-id="26601bb2" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au32e2e06a">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au3f39ed39">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -4867,7 +4827,7 @@ color: var(--e-global-color-text);
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-45fc51e4 aux-appear-watch-animation aux-fade-in-down elementor-widget__width-initial elementor-widget elementor-widget-aux_image" data-id="45fc51e4" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au16a7c558">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aubcd9892d">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image aux-hover-active aux-media-frame aux-lightbox-frame" >
                     <a class="aux-lightbox-btn" href="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/57d82d38-6232-44f5-b938-55321ae7b5d9-1.jpg" data-elementor-open-lightbox="no" data-original-width="1394" data-original-height="806" data-caption="57d82d38-6232-44f5-b938-55321ae7b5d9 (1)" target="_self"  >
@@ -4955,7 +4915,7 @@ color: var(--e-global-color-text);
 
             
             <div class='fluentform fluentform_wrapper_2'><form data-form_id="2" id="fluentform_2" class="frm-fluent-form fluent_form_2 ff-el-form-top ff_form_instance_2_1 ff-form-loading" data-form_instance="ff_form_instance_2_1" method="POST" ><fieldset style="border: none!important;margin: 0!important;padding: 0!important;background-color: transparent!important;box-shadow: none!important;outline: none!important; min-inline-size: 100%;">
-                    <legend class="ff_screen_reader_title" style="display: block; margin: 0!important;padding: 0!important;height: 0!important;text-indent: -999999px;width: 0!important;overflow:hidden;">Subscription Form</legend><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="68"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><input type='hidden' name='__fluent_form_embded_post_id' value='4652' /><input type="hidden" id="_fluentform_2_fluentformnonce" name="_fluentform_2_fluentformnonce" value="6dcca3257f" /><input type="hidden" name="_wp_http_referer" value="/?preview_id=4652&#038;preview_nonce=5f287a929f&#038;preview=true" /><div data-name="ff_cn_id_1"  class='ff-t-container ff-column-container ff_columns_total_2  '><div class='ff-t-cell ff-t-column-1' style='flex-basis: 50%;'><div class='ff-el-group'><div class='ff-el-input--content'><input type="email" name="email" id="ff_2_email" class="ff-el-form-control" placeholder="Your Email Address" data-name="email"  aria-invalid="false" aria-required=true></div></div></div><div class='ff-t-cell ff-t-column-2' style='flex-basis: 50%;'><div class='ff-el-group ff-text-left ff_submit_btn_wrapper ff_submit_btn_wrapper_custom'><button class="ff-btn ff-btn-submit ff-btn-md ff_btn_style wpf_has_custom_css" type="submit" name="custom_submit_button-2_1" data-name="custom_submit_button-2_1" >Subscribe</button><style>form.fluent_form_2 .wpf_has_custom_css.ff-btn-submit { background-color:#1a7efb;border-color:#1a7efb;color:#ffffff;min-width:100%; }form.fluent_form_2 .wpf_has_custom_css.ff-btn-submit:hover { background-color:#ffffff;border-color:#1a7efb;color:#1a7efb;min-width:100%; } </style></div></div></div></fieldset></form><div id='fluentform_2_errors' class='ff-errors-in-stack ff_form_instance_2_1 ff-form-loading_errors ff_form_instance_2_1_errors'></div></div>        <script type="text/javascript">
+                    <legend class="ff_screen_reader_title" style="display: block; margin: 0!important;padding: 0!important;height: 0!important;text-indent: -999999px;width: 0!important;overflow:hidden;">Subscription Form</legend><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="6"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><input type='hidden' name='__fluent_form_embded_post_id' value='4652' /><input type="hidden" id="_fluentform_2_fluentformnonce" name="_fluentform_2_fluentformnonce" value="0d1bc6e704" /><input type="hidden" name="_wp_http_referer" value="/" /><div data-name="ff_cn_id_1"  class='ff-t-container ff-column-container ff_columns_total_2  '><div class='ff-t-cell ff-t-column-1' style='flex-basis: 50%;'><div class='ff-el-group'><div class='ff-el-input--content'><input type="email" name="email" id="ff_2_email" class="ff-el-form-control" placeholder="Your Email Address" data-name="email"  aria-invalid="false" aria-required=true></div></div></div><div class='ff-t-cell ff-t-column-2' style='flex-basis: 50%;'><div class='ff-el-group ff-text-left ff_submit_btn_wrapper ff_submit_btn_wrapper_custom'><button class="ff-btn ff-btn-submit ff-btn-md ff_btn_style wpf_has_custom_css" type="submit" name="custom_submit_button-2_1" data-name="custom_submit_button-2_1" >Subscribe</button><style>form.fluent_form_2 .wpf_has_custom_css.ff-btn-submit { background-color:#1a7efb;border-color:#1a7efb;color:#ffffff;min-width:100%; }form.fluent_form_2 .wpf_has_custom_css.ff-btn-submit:hover { background-color:#ffffff;border-color:#1a7efb;color:#1a7efb;min-width:100%; } </style></div></div></div></fieldset></form><div id='fluentform_2_errors' class='ff-errors-in-stack ff_form_instance_2_1 ff-form-loading_errors ff_form_instance_2_1_errors'></div></div>        <script type="text/javascript">
             window.fluent_form_ff_form_instance_2_1 = {"id":"2","settings":{"layout":{"labelPlacement":"top","helpMessagePlacement":"with_label","errorMessagePlacement":"inline","asteriskPlacement":"asterisk-right"},"restrictions":{"denyEmptySubmission":{"enabled":false}}},"form_instance":"ff_form_instance_2_1","form_id_selector":"fluentform_2","rules":{"email":{"required":{"value":true,"message":"This field is required"},"email":{"value":true,"message":"This field must contain a valid email"}}}};
                     </script>
                 </div>
@@ -5029,7 +4989,70 @@ color: var(--e-global-color-text);
         		<div data-elementor-type="footer" data-elementor-id="4890" class="elementor elementor-4890">
 						<div class="elementor-inner">
 				<div class="elementor-section-wrap">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-5ebb65fb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5ebb65fb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-6e99a3fc elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6e99a3fc" data-element_type="section" id="contact-section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-49669226" data-id="49669226" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-717547cc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="717547cc" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-70eae5dc" data-id="70eae5dc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-299b6e2 elementor-widget elementor-widget-heading" data-id="299b6e2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Entrar em contato</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-302e1e6a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="302e1e6a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-79da821c eael-fluentform-form-button-center eael-fluentform-form-button-custom elementor-widget elementor-widget-eael-fluentform" data-id="79da821c" data-element_type="widget" data-widget_type="eael-fluentform.default">
+				<div class="elementor-widget-container">
+			        <div class="eael-contact-form eael-fluent-form-wrapper clearfix eael-contact-form-align-default">
+
+                            <div class="eael-fluentform-heading">
+                                                        </div>
+            
+            <div class='fluentform fluentform_wrapper_1'><form data-form_id="1" id="fluentform_1" class="frm-fluent-form fluent_form_1 ff-el-form-top ff_form_instance_1_2 ff-form-loading" data-form_instance="ff_form_instance_1_2" method="POST" ><fieldset style="border: none!important;margin: 0!important;padding: 0!important;background-color: transparent!important;box-shadow: none!important;outline: none!important; min-inline-size: 100%;">
+                    <legend class="ff_screen_reader_title" style="display: block; margin: 0!important;padding: 0!important;height: 0!important;text-indent: -999999px;width: 0!important;overflow:hidden;">Contact Form Demo</legend><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_2" name="ak_js" value="245"/><script>document.getElementById( "ak_js_2" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><input type='hidden' name='__fluent_form_embded_post_id' value='4652' /><input type="hidden" id="_fluentform_1_fluentformnonce" name="_fluentform_1_fluentformnonce" value="0d1bc6e704" /><input type="hidden" name="_wp_http_referer" value="/" /><div data-type="name-element" data-name="names" class=" ff-field_container ff-name-field-wrapper" ><div class='ff-t-container'><div class='ff-t-cell '><div class='ff-el-group'><div class="ff-el-input--label asterisk-right"><label for='ff_1_2_names_first_name_' aria-label="First Name">First Name</label></div><div class='ff-el-input--content'><input type="text" name="names[first_name]" id="ff_1_2_names_first_name_" class="ff-el-form-control" placeholder="First Name" aria-invalid="false" aria-required=false></div></div></div><div class='ff-t-cell '><div class='ff-el-group'><div class="ff-el-input--label asterisk-right"><label for='ff_1_2_names_last_name_' aria-label="Last Name">Last Name</label></div><div class='ff-el-input--content'><input type="text" name="names[last_name]" id="ff_1_2_names_last_name_" class="ff-el-form-control" placeholder="Last Name" aria-invalid="false" aria-required=false></div></div></div></div></div><div class='ff-el-group'><div class="ff-el-input--label ff-el-is-required asterisk-right"><label for='ff_1_2_email' aria-label="Email">Email</label></div><div class='ff-el-input--content'><input type="email" name="email" id="ff_1_2_email" class="ff-el-form-control" placeholder="Email Address" data-name="email"  aria-invalid="false" aria-required=true></div></div><div class='ff-el-group'><div class="ff-el-input--label asterisk-right"><label for='ff_1_2_subject' aria-label="Subject">Subject</label></div><div class='ff-el-input--content'><input type="text" name="subject" class="ff-el-form-control" placeholder="Subject" data-name="subject" id="ff_1_2_subject"  aria-invalid="false" aria-required=false></div></div><div class='ff-el-group'><div class="ff-el-input--label ff-el-is-required asterisk-right"><label for='ff_1_2_message' aria-label="Your Message">Your Message</label></div><div class='ff-el-input--content'><textarea aria-invalid="false" aria-required=true name="message" id="ff_1_2_message" class="ff-el-form-control" placeholder="Your Message" rows="4" cols="2" data-name="message" ></textarea></div></div><div class='ff-el-group ff-text-left ff_submit_btn_wrapper'><button type="submit" class="ff-btn ff-btn-submit ff-btn-md ff_btn_style" >Submit Form</button></div></fieldset></form><div id='fluentform_1_errors' class='ff-errors-in-stack ff_form_instance_1_2 ff-form-loading_errors ff_form_instance_1_2_errors'></div></div>        <script type="text/javascript">
+            window.fluent_form_ff_form_instance_1_2 = {"id":"1","settings":{"layout":{"labelPlacement":"top","helpMessagePlacement":"with_label","errorMessagePlacement":"inline","cssClassName":"","asteriskPlacement":"asterisk-right"},"restrictions":{"denyEmptySubmission":{"enabled":false}}},"form_instance":"ff_form_instance_1_2","form_id_selector":"fluentform_1","rules":{"names[first_name]":{"required":{"value":false,"message":"This field is required"}},"names[middle_name]":{"required":{"value":false,"message":"This field is required"}},"names[last_name]":{"required":{"value":false,"message":"This field is required"}},"email":{"required":{"value":true,"message":"This field is required"},"email":{"value":true,"message":"This field must contain a valid email"}},"subject":{"required":{"value":false,"message":"This field is required"}},"message":{"required":{"value":true,"message":"This field is required"}}}};
+                    </script>
+                </div>
+
+        		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-26097019 elementor-widget__width-initial elementor-absolute elementor-hidden-phone elementor-widget elementor-widget-image" data-id="26097019" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="271" height="644" src="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/d15cc81e-perf-wp-theme-group-8782.png" class="attachment-large size-large wp-image-4836" alt="" loading="lazy" srcset="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/d15cc81e-perf-wp-theme-group-8782.png 271w, https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/d15cc81e-perf-wp-theme-group-8782-200x475.png 200w" sizes="(max-width: 271px) 100vw, 271px" />														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1aa543ad elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-absolute elementor-hidden-phone elementor-widget elementor-widget-image" data-id="1aa543ad" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="373" height="650" src="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/afd9a249-perf-wp-theme-group-8796.png" class="attachment-full size-full wp-image-4837" alt="" loading="lazy" srcset="https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/afd9a249-perf-wp-theme-group-8796.png 373w, https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/2023/07/afd9a249-perf-wp-theme-group-8796-200x349.png 200w" sizes="(max-width: 373px) 100vw, 373px" />														</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5ebb65fb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5ebb65fb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-48be5b8d" data-id="48be5b8d" data-element_type="column">
@@ -5246,75 +5269,8 @@ color: var(--e-global-color-text);
 
     <div class="aux-goto-top-btn aux-align-btn-right" data-animate-scroll="1"><div class="aux-hover-slide aux-arrow-nav aux-round aux-outline">    <span class="aux-overlay"></span>    <span class="aux-svg-arrow aux-h-small-up"></span>    <span class="aux-hover-arrow aux-svg-arrow aux-h-small-up aux-white"></span></div></div>
 <!-- outputs by wp_footer -->
-<script type="text/template" id="tmpl-elementor-templates-modal__header">
-	<div class="elementor-templates-modal__header__logo-area"></div>
-	<div class="elementor-templates-modal__header__menu-area"></div>
-	<div class="elementor-templates-modal__header__items-area">
-		<# if ( closeType ) { #>
-			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
-				<# if ( 'skip' === closeType ) { #>
-				<span>Skip</span>
-				<# } #>
-				<i class="eicon-close" aria-hidden="true"></i>
-				<span class="elementor-screen-only">Close</span>
-			</div>
-		<# } #>
-		<div id="elementor-template-library-header-tools"></div>
-	</div>
-</script>
-
-<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
-	<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
-		<i class="eicon-elementor"></i>
-	</span>
-	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
-</script>
-<script type="text/template" id="tmpl-elementor-finder">
-	<div id="elementor-finder__search">
-		<i class="eicon-search" aria-hidden="true"></i>
-		<input id="elementor-finder__search__input" placeholder="Type to find anything in Elementor" autocomplete="off">
-	</div>
-	<div id="elementor-finder__content"></div>
-</script>
-
-<script type="text/template" id="tmpl-elementor-finder-results-container">
-	<div id="elementor-finder__no-results">No Results Found</div>
-	<div id="elementor-finder__results"></div>
-</script>
-
-<script type="text/template" id="tmpl-elementor-finder__results__category">
-	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
-	<div class="elementor-finder__results__category__items"></div>
-</script>
-
-<script type="text/template" id="tmpl-elementor-finder__results__item">
-	<a href="{{ url }}" class="elementor-finder__results__item__link">
-		<div class="elementor-finder__results__item__icon">
-			<i class="eicon-{{{ icon }}}" aria-hidden="true"></i>
-		</div>
-		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
-		<# if ( description ) { #>
-			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
-		<# } #>
-
-		<# if ( lock ) { #>
-		<div class="elementor-finder__results__item__badge"><i class="{{{ lock.badge.icon }}}"></i>{{ lock.badge.text }}</div>
-		<# } #>
-	</a>
-	<# if ( actions.length ) { #>
-		<div class="elementor-finder__results__item__actions">
-		<# jQuery.each( actions, function() { #>
-			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
-				<i class="eicon-{{{ this.icon }}}"></i>
-			</a>
-		<# } ); #>
-		</div>
-	<# } #>
-</script>
-<link rel='stylesheet' id='elementor-preview-4937-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/elementor/css/post-4652.css?ver=1691097412' media='all' />
-<link rel='stylesheet' id='fluent-form-styles-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/fluentform/assets/css/fluent-forms-public.css?ver=5.0.7' media='all' />
+<style>form.fluent_form_1 .ff-btn-submit { background-color: #1a7efb; color: #ffffff; }</style><link rel='stylesheet' id='fluent-form-styles-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/fluentform/assets/css/fluent-forms-public.css?ver=5.0.7' media='all' />
 <link rel='stylesheet' id='fluentform-public-default-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/fluentform/assets/css/fluentform-public-default.css?ver=5.0.7' media='all' />
-<link rel='stylesheet' id='elementor-preview-4905-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/elementor/css/post-4890.css?ver=1691097415' media='all' />
 <link rel='stylesheet' id='e-animations-css' href='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.14.1' media='all' />
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
@@ -5333,7 +5289,7 @@ var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPr
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/auxin-elements/public/assets/js/plugins.min.js?ver=2.14.0' id='auxin-elements-plugins-js'></script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/auxin-elements/public/assets/js/scripts.js?ver=2.14.0' id='auxin-elements-scripts-js'></script>
 <script id='chaty-front-end-js-extra'>
-var chaty_settings = {"ajax_url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin-ajax.php","analytics":"0","chaty_widgets":[{"id":0,"identifier":0,"settings":{"cta_type":"simple-view","cta_body":"","cta_head":"","cta_head_bg_color":"","cta_head_text_color":"","show_close_button":1,"position":"right","custom_position":1,"bottom_spacing":"25","side_spacing":"25","icon_view":"vertical","default_state":"click","cta_text":"Fale Conosco","cta_text_color":"#333333","cta_bg_color":"#ffffff","show_cta":"first_click","is_pending_mesg_enabled":"on","pending_mesg_count":"1","pending_mesg_count_color":"#ffffff","pending_mesg_count_bgcolor":"#dd0000","widget_icon":"chat-base","widget_icon_url":"","font_family":"-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif","widget_size":"70","custom_widget_size":"70","is_google_analytics_enabled":0,"close_text":"Hide","widget_color":"#A886CD","widget_rgb_color":"168,134,205","has_custom_css":0,"custom_css":"","widget_token":"4313c07b03","widget_index":"","attention_effect":""},"triggers":{"has_time_delay":1,"time_delay":"0","exit_intent":0,"has_display_after_page_scroll":0,"display_after_page_scroll":"0","auto_hide_widget":0,"hide_after":0,"show_on_pages_rules":[],"time_diff":0,"has_date_scheduling_rules":0,"date_scheduling_rules":{"start_date_time":"","end_date_time":""},"date_scheduling_rules_timezone":0,"day_hours_scheduling_rules_timezone":0,"has_day_hours_scheduling_rules":[],"day_hours_scheduling_rules":[],"day_time_diff":0,"show_on_direct_visit":0,"show_on_referrer_social_network":0,"show_on_referrer_search_engines":0,"show_on_referrer_google_ads":0,"show_on_referrer_urls":[],"has_show_on_specific_referrer_urls":0,"has_traffic_source":0,"has_countries":0,"countries":[],"has_target_rules":0},"channels":[{"channel":"Whatsapp","value":"+55999072390","hover_text":"WhatsApp","svg_icon":"<svg width=\"39\" height=\"39\" viewBox=\"0 0 39 39\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\"><circle class=\"color-element\" cx=\"19.4395\" cy=\"19.4395\" r=\"19.4395\" fill=\"#49E670\"\/><path d=\"M12.9821 10.1115C12.7029 10.7767 11.5862 11.442 10.7486 11.575C10.1902 11.7081 9.35269 11.8411 6.84003 10.7767C3.48981 9.44628 1.39593 6.25317 1.25634 6.12012C1.11674 5.85403 2.13001e-06 4.39053 2.13001e-06 2.92702C2.13001e-06 1.46351 0.83755 0.665231 1.11673 0.399139C1.39592 0.133046 1.8147 1.01506e-06 2.23348 1.01506e-06C2.37307 1.01506e-06 2.51267 1.01506e-06 2.65226 1.01506e-06C2.93144 1.01506e-06 3.21063 -2.02219e-06 3.35022 0.532183C3.62941 1.19741 4.32736 2.66092 4.32736 2.79397C4.46696 2.92702 4.46696 3.19311 4.32736 3.32616C4.18777 3.59225 4.18777 3.59224 3.90858 3.85834C3.76899 3.99138 3.6294 4.12443 3.48981 4.39052C3.35022 4.52357 3.21063 4.78966 3.35022 5.05576C3.48981 5.32185 4.18777 6.38622 5.16491 7.18449C6.42125 8.24886 7.39839 8.51496 7.81717 8.78105C8.09636 8.91409 8.37554 8.9141 8.65472 8.648C8.93391 8.38191 9.21309 7.98277 9.49228 7.58363C9.77146 7.31754 10.0507 7.1845 10.3298 7.31754C10.609 7.45059 12.2841 8.11582 12.5633 8.38191C12.8425 8.51496 13.1217 8.648 13.1217 8.78105C13.1217 8.78105 13.1217 9.44628 12.9821 10.1115Z\" transform=\"translate(12.9597 12.9597)\" fill=\"#FAFAFA\"\/><path d=\"M0.196998 23.295L0.131434 23.4862L0.323216 23.4223L5.52771 21.6875C7.4273 22.8471 9.47325 23.4274 11.6637 23.4274C18.134 23.4274 23.4274 18.134 23.4274 11.6637C23.4274 5.19344 18.134 -0.1 11.6637 -0.1C5.19344 -0.1 -0.1 5.19344 -0.1 11.6637C-0.1 13.9996 0.624492 16.3352 1.93021 18.2398L0.196998 23.295ZM5.87658 19.8847L5.84025 19.8665L5.80154 19.8788L2.78138 20.8398L3.73978 17.9646L3.75932 17.906L3.71562 17.8623L3.43104 17.5777C2.27704 15.8437 1.55796 13.8245 1.55796 11.6637C1.55796 6.03288 6.03288 1.55796 11.6637 1.55796C17.2945 1.55796 21.7695 6.03288 21.7695 11.6637C21.7695 17.2945 17.2945 21.7695 11.6637 21.7695C9.64222 21.7695 7.76778 21.1921 6.18227 20.039L6.17557 20.0342L6.16817 20.0305L5.87658 19.8847Z\" transform=\"translate(7.7758 7.77582)\" fill=\"white\" stroke=\"white\" stroke-width=\"0.2\"\/><\/svg>","is_desktop":1,"is_mobile":1,"icon_color":"#49E670","icon_rgb_color":"73,230,112","channel_type":"Whatsapp","custom_image_url":"","order":"","pre_set_message":"","is_use_web_version":"1","is_open_new_tab":"1","is_default_open":"1","has_welcome_message":"1","chat_welcome_message":"<p>Como posso ajud\u00e1-lo?<\/p>","qr_code_image_url":"","mail_subject":"","channel_account_type":"personal","contact_form_settings":[],"contact_fields":[],"url":"https:\/\/web.whatsapp.com\/send?phone=+55999072390","mobile_target":"","desktop_target":"_blank","target":"_blank","is_agent":0,"agent_data":[],"header_text":"","header_sub_text":"","header_bg_color":"","header_text_color":"","widget_token":"4313c07b03","widget_index":"","click_event":""}]}],"data_analytics_settings":"off"};
+var chaty_settings = {"ajax_url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin-ajax.php","analytics":"0","chaty_widgets":[{"id":0,"identifier":0,"settings":{"cta_type":"simple-view","cta_body":"","cta_head":"","cta_head_bg_color":"","cta_head_text_color":"","show_close_button":1,"position":"right","custom_position":1,"bottom_spacing":"25","side_spacing":"25","icon_view":"vertical","default_state":"click","cta_text":"Fale Conosco","cta_text_color":"#333333","cta_bg_color":"#ffffff","show_cta":"first_click","is_pending_mesg_enabled":"on","pending_mesg_count":"1","pending_mesg_count_color":"#ffffff","pending_mesg_count_bgcolor":"#dd0000","widget_icon":"chat-base","widget_icon_url":"","font_family":"-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif","widget_size":"70","custom_widget_size":"70","is_google_analytics_enabled":0,"close_text":"Hide","widget_color":"#A886CD","widget_rgb_color":"168,134,205","has_custom_css":0,"custom_css":"","widget_token":"54c05a0341","widget_index":"","attention_effect":""},"triggers":{"has_time_delay":1,"time_delay":"0","exit_intent":0,"has_display_after_page_scroll":0,"display_after_page_scroll":"0","auto_hide_widget":0,"hide_after":0,"show_on_pages_rules":[],"time_diff":0,"has_date_scheduling_rules":0,"date_scheduling_rules":{"start_date_time":"","end_date_time":""},"date_scheduling_rules_timezone":0,"day_hours_scheduling_rules_timezone":0,"has_day_hours_scheduling_rules":[],"day_hours_scheduling_rules":[],"day_time_diff":0,"show_on_direct_visit":0,"show_on_referrer_social_network":0,"show_on_referrer_search_engines":0,"show_on_referrer_google_ads":0,"show_on_referrer_urls":[],"has_show_on_specific_referrer_urls":0,"has_traffic_source":0,"has_countries":0,"countries":[],"has_target_rules":0},"channels":[{"channel":"Whatsapp","value":"+55999072390","hover_text":"WhatsApp","svg_icon":"<svg width=\"39\" height=\"39\" viewBox=\"0 0 39 39\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\"><circle class=\"color-element\" cx=\"19.4395\" cy=\"19.4395\" r=\"19.4395\" fill=\"#49E670\"\/><path d=\"M12.9821 10.1115C12.7029 10.7767 11.5862 11.442 10.7486 11.575C10.1902 11.7081 9.35269 11.8411 6.84003 10.7767C3.48981 9.44628 1.39593 6.25317 1.25634 6.12012C1.11674 5.85403 2.13001e-06 4.39053 2.13001e-06 2.92702C2.13001e-06 1.46351 0.83755 0.665231 1.11673 0.399139C1.39592 0.133046 1.8147 1.01506e-06 2.23348 1.01506e-06C2.37307 1.01506e-06 2.51267 1.01506e-06 2.65226 1.01506e-06C2.93144 1.01506e-06 3.21063 -2.02219e-06 3.35022 0.532183C3.62941 1.19741 4.32736 2.66092 4.32736 2.79397C4.46696 2.92702 4.46696 3.19311 4.32736 3.32616C4.18777 3.59225 4.18777 3.59224 3.90858 3.85834C3.76899 3.99138 3.6294 4.12443 3.48981 4.39052C3.35022 4.52357 3.21063 4.78966 3.35022 5.05576C3.48981 5.32185 4.18777 6.38622 5.16491 7.18449C6.42125 8.24886 7.39839 8.51496 7.81717 8.78105C8.09636 8.91409 8.37554 8.9141 8.65472 8.648C8.93391 8.38191 9.21309 7.98277 9.49228 7.58363C9.77146 7.31754 10.0507 7.1845 10.3298 7.31754C10.609 7.45059 12.2841 8.11582 12.5633 8.38191C12.8425 8.51496 13.1217 8.648 13.1217 8.78105C13.1217 8.78105 13.1217 9.44628 12.9821 10.1115Z\" transform=\"translate(12.9597 12.9597)\" fill=\"#FAFAFA\"\/><path d=\"M0.196998 23.295L0.131434 23.4862L0.323216 23.4223L5.52771 21.6875C7.4273 22.8471 9.47325 23.4274 11.6637 23.4274C18.134 23.4274 23.4274 18.134 23.4274 11.6637C23.4274 5.19344 18.134 -0.1 11.6637 -0.1C5.19344 -0.1 -0.1 5.19344 -0.1 11.6637C-0.1 13.9996 0.624492 16.3352 1.93021 18.2398L0.196998 23.295ZM5.87658 19.8847L5.84025 19.8665L5.80154 19.8788L2.78138 20.8398L3.73978 17.9646L3.75932 17.906L3.71562 17.8623L3.43104 17.5777C2.27704 15.8437 1.55796 13.8245 1.55796 11.6637C1.55796 6.03288 6.03288 1.55796 11.6637 1.55796C17.2945 1.55796 21.7695 6.03288 21.7695 11.6637C21.7695 17.2945 17.2945 21.7695 11.6637 21.7695C9.64222 21.7695 7.76778 21.1921 6.18227 20.039L6.17557 20.0342L6.16817 20.0305L5.87658 19.8847Z\" transform=\"translate(7.7758 7.77582)\" fill=\"white\" stroke=\"white\" stroke-width=\"0.2\"\/><\/svg>","is_desktop":1,"is_mobile":1,"icon_color":"#49E670","icon_rgb_color":"73,230,112","channel_type":"Whatsapp","custom_image_url":"","order":"","pre_set_message":"","is_use_web_version":"1","is_open_new_tab":"1","is_default_open":"1","has_welcome_message":"1","chat_welcome_message":"<p>Como posso ajud\u00e1-lo?<\/p>","qr_code_image_url":"","mail_subject":"","channel_account_type":"personal","contact_form_settings":[],"contact_fields":[],"url":"https:\/\/web.whatsapp.com\/send?phone=+55999072390","mobile_target":"","desktop_target":"_blank","target":"_blank","is_agent":0,"agent_data":[],"header_text":"","header_sub_text":"","header_bg_color":"","header_text_color":"","widget_token":"54c05a0341","widget_index":"","click_event":""}]}],"data_analytics_settings":"off"};
 </script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/chaty/js/cht-front-script.min.js?ver=3.1.21690575856' id='chaty-front-end-js'></script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.9.0' id='elementskit-framework-js-frontend-js'></script>
@@ -5345,82 +5301,35 @@ var chaty_settings = {"ajax_url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite
 		
 </script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.9.0' id='ekit-widget-scripts-js'></script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2' id='jquery-ui-mouse-js'></script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2' id='jquery-ui-draggable-js'></script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/backbone.min.js?ver=1.4.1' id='backbone-js'></script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5.e1' id='backbone-marionette-js'></script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4' id='backbone-radio-js'></script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/js/common-modules.min.js?ver=3.14.1' id='elementor-common-modules-js'></script>
-<script id='elementor-web-cli-js-before'>
-var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-json\/","assets":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"8d4d3e1ba9","version":"3.14.1"};
-var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-json\/","assets":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"8d4d3e1ba9","version":"3.14.1"};
+<script id='eael-general-js-extra'>
+var localize = {"ajaxurl":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin-ajax.php","nonce":"53a261e25c","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/","cart_redirectition":"no","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
 </script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/js/web-cli.min.js?ver=3.14.1' id='elementor-web-cli-js'></script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0' id='elementor-dialog-js'></script>
-<script id='wp-api-request-js-extra'>
-var wpApiSettings = {"root":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-json\/","nonce":"8d4d3e1ba9","versionString":"wp\/v2\/"};
-</script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/api-request.min.js?ver=6.2.2' id='wp-api-request-js'></script>
-<script id='elementor-dev-tools-js-before'>
-var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.14.1"}};
-var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.14.1"}};
-var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.14.1"}};
-</script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/js/dev-tools.min.js?ver=3.14.1' id='elementor-dev-tools-js'></script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
-<script id='wp-i18n-js-after'>
-wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
-</script>
-<script id='elementor-common-js-before'>
-var elementorCommonConfig = {"version":"3.14.1","isRTL":false,"isDebug":false,"isElementorDebug":false,"activeModules":["ajax","finder","connect","event-tracker"],"experimentalFeatures":{"a11y_improvements":true,"additional_custom_breakpoints":true,"landing-pages":true},"urls":{"assets":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-content\/plugins\/elementor\/assets\/","rest":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-json\/"},"filesUpload":{"unfilteredFiles":true},"library_connect":{"is_connected":false,"subscription_plans":[{"label":null,"promotion_url":null,"color":null},{"label":"Pro","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"}],"base_access_level":0,"current_access_level":0},"ajax":{"url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin-ajax.php","nonce":"572dac7695"},"finder":{"data":{"edit":{"title":"Edit","dynamic":true,"name":"edit"},"general":{"title":"General","dynamic":false,"items":{"saved-templates":{"title":"Saved Templates","icon":"library-save","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"System Info","icon":"info-circle-o","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"Role Manager","icon":"person","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"Knowledge Base","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]},"theme-builder":{"title":"Theme Builder","icon":"library-save","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin.php?page=elementor-app&ver=3.14.1#site-editor\/promotion","keywords":["template","header","footer","single","archive","search","404","library"]},"kit-library":{"title":"Kit Library","icon":"kit-parts","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin.php?page=elementor-app&ver=3.14.1#\/kit-library","keywords":["kit library","kit","library","site parts","parts","assets","templates"]}},"name":"general"},"create":{"title":"Create","dynamic":false,"items":{"page":{"title":"Add New Page Template","icon":"plus-circle-o","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=page&_wpnonce=952ae5559e","keywords":["Add New Page Template","post","page","template","new","create"]},"section":{"title":"Add New Section","icon":"plus-circle-o","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=section&_wpnonce=952ae5559e","keywords":["Add New Section","post","page","template","new","create"]},"wp-post":{"title":"Add New Post","icon":"plus-circle-o","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&template_type=wp-post&_wpnonce=952ae5559e","keywords":["Add New Post","post","page","template","new","create"]},"wp-page":{"title":"Add New Page","icon":"plus-circle-o","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&template_type=wp-page&_wpnonce=952ae5559e","keywords":["Add New Page","post","page","template","new","create"]},"header":{"title":"Add New Header","icon":"plus-circle-o","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=stack&_wpnonce=952ae5559e","keywords":["Add New Header","post","page","template","new","create"]},"footer":{"title":"Add New Footer","icon":"plus-circle-o","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=stack&_wpnonce=952ae5559e","keywords":["Add New Footer","post","page","template","new","create"]},"landing-page":{"title":"Add New Landing Page","icon":"plus-circle-o","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/edit.php?action=elementor_new_post&post_type=e-landing-page&template_type=landing-page&_wpnonce=952ae5559e#library","keywords":["Add New Landing Page","post","page","template","new","create"]},"product":false,"portfolio":false,"elementskit_content":{"title":"Add New ElementsKit item","icon":"plus-circle-o","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementskit_content&_wpnonce=952ae5559e","keywords":["Add New ElementsKit item","post","page","template","new","create"]},"elementskit_template":{"title":"Add New Template","icon":"plus-circle-o","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementskit_template&_wpnonce=952ae5559e","keywords":["Add New Template","post","page","template","new","create"]},"elementskit_widget":{"title":"Add New Widget","icon":"plus-circle-o","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementskit_widget&_wpnonce=952ae5559e","keywords":["Add New Widget","post","page","template","new","create"]},"cartflows_step":{"title":"Add New Step","icon":"plus-circle-o","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/edit.php?action=elementor_new_post&post_type=cartflows_step&_wpnonce=952ae5559e","keywords":["Add New Step","post","page","template","new","create"]}},"name":"create"},"site":{"title":"Site","dynamic":false,"items":{"homepage":{"title":"Homepage","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"Dashboard","icon":"dashboard","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"Menus","icon":"wordpress","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"Themes","icon":"wordpress","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"Customizer","icon":"wordpress","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"Plugins","icon":"wordpress","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"Users","icon":"wordpress","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/users.php","keywords":["users","profile","wordpress"]}},"name":"site"},"settings":{"title":"Settings","dynamic":false,"items":{"general-settings":{"title":"General Settings","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin.php?page=elementor","keywords":["general","settings","elementor"]},"advanced":{"title":"Advanced","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin.php?page=elementor#tab-advanced","keywords":["advanced","settings","elementor"]},"experiments":{"title":"Experiments","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin.php?page=elementor#tab-experiments","keywords":["settings","elementor","experiments"]}},"name":"settings"},"tools":{"title":"Tools","dynamic":false,"items":{"tools":{"title":"Tools","icon":"tools","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"Replace URL","icon":"tools","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"maintenance-mode":{"title":"Maintenance Mode","icon":"tools","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]},"import-export":{"title":"Import Export","icon":"import-export","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin.php?page=elementor-tools#tab-import-export-kit","keywords":["tools","import export","import","export","kit"]},"version-control":{"title":"Version Control","icon":"time-line","url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]}},"name":"tools"}}},"connect":[],"event-tracker":{"isUserDataShared":false}};
-</script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/js/common.min.js?ver=3.14.1' id='elementor-common-js'></script>
-<script id='elementor-app-loader-js-before'>
-var elementorAppConfig = {"menu_url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin.php?page=elementor-app&ver=3.14.1#site-editor\/promotion","assets_url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-content\/plugins\/elementor\/assets\/","pages_url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/edit.php?post_type=page","return_url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/","hasPro":false,"admin_url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/","login_url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-login.php","base_url":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin.php?page=elementor-app&ver=3.14.1","site-editor":[],"import-export":[],"kit-library":[],"onboarding":[]};
-</script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/js/app-loader.min.js?ver=3.14.1' id='elementor-app-loader-js'></script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.8.3' id='eael-general-js'></script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/essential-addons-elementor/eael-4652.js?ver=1690975143' id='eael-4652-js'></script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/phlox/custom.js?ver=9.7' id='auxin-custom-js-js'></script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/essential-addons-elementor/eael-4890.js?ver=1690975143' id='eael-4890-js'></script>
-<script id='eael-js-extra'>
-var localize = {"ajaxurl":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin-ajax.php","nonce":"307ffd455c","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/","cart_redirectition":"no","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
-</script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/uploads/essential-addons-elementor/eael.js?ver=1690975143' id='eael-js'></script>
 <script id='fluent-form-submission-js-extra'>
+var fluentFormVars = {"ajaxUrl":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin-ajax.php","forms":[],"step_text":"Step %activeStep% of %totalStep% - %stepTitle%","is_rtl":"","date_i18n":{"previousMonth":"Previous Month","nextMonth":"Next Month","months":{"shorthand":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"longhand":["January","February","March","April","May","June","July","August","September","October","November","December"]},"weekdays":{"longhand":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"shorthand":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"daysInMonth":[31,28,31,30,31,30,31,31,30,31,30,31],"rangeSeparator":" to ","weekAbbreviation":"Wk","scrollTitle":"Scroll to increment","toggleTitle":"Click to toggle","amPM":["AM","PM"],"yearAriaLabel":"Year"},"pro_version":"","fluentform_version":"5.0.7","force_init":"","stepAnimationDuration":"350","upload_completed_txt":"100% Completed","upload_start_txt":"0% Completed","uploading_txt":"Uploading","choice_js_vars":{"noResultsText":"No results found","loadingText":"Loading...","noChoicesText":"No choices to choose from","itemSelectText":"Press to select","maxItemText":"Only %%maxItemCount%% options can be added"},"input_mask_vars":{"clearIfNotMatch":false}};
 var fluentFormVars = {"ajaxUrl":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin-ajax.php","forms":[],"step_text":"Step %activeStep% of %totalStep% - %stepTitle%","is_rtl":"","date_i18n":{"previousMonth":"Previous Month","nextMonth":"Next Month","months":{"shorthand":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"longhand":["January","February","March","April","May","June","July","August","September","October","November","December"]},"weekdays":{"longhand":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"shorthand":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"daysInMonth":[31,28,31,30,31,30,31,31,30,31,30,31],"rangeSeparator":" to ","weekAbbreviation":"Wk","scrollTitle":"Scroll to increment","toggleTitle":"Click to toggle","amPM":["AM","PM"],"yearAriaLabel":"Year"},"pro_version":"","fluentform_version":"5.0.7","force_init":"","stepAnimationDuration":"350","upload_completed_txt":"100% Completed","upload_start_txt":"0% Completed","uploading_txt":"Uploading","choice_js_vars":{"noResultsText":"No results found","loadingText":"Loading...","noChoicesText":"No choices to choose from","itemSelectText":"Press to select","maxItemText":"Only %%maxItemCount%% options can be added"},"input_mask_vars":{"clearIfNotMatch":false}};
 </script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/fluentform/assets/js/form-submission.js?ver=5.0.7' id='fluent-form-submission-js'></script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.14.1' id='elementor-webpack-runtime-js'></script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.14.1' id='elementor-frontend-modules-js'></script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.14.1' id='share-link-js'></script>
+<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0' id='elementor-dialog-js'></script>
 <script id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":true,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.14.1","is_static":false,"experimentalFeatures":{"a11y_improvements":true,"additional_custom_breakpoints":true,"landing-pages":true},"urls":{"assets":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":4652,"title":"Phlox%20Digital%20Shop%20%E2%80%93%20Just%20another%20Complete%20Elementor%20Demos%20%E2%80%93%20Phlox%20WordPress%20Theme%20site","excerpt":"","featuredImage":false},"user":{"roles":["administrator"]}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.14.1","is_static":false,"experimentalFeatures":{"a11y_improvements":true,"additional_custom_breakpoints":true,"landing-pages":true},"urls":{"assets":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":4652,"title":"Phlox%20Digital%20Shop%20%E2%80%93%20Just%20another%20Complete%20Elementor%20Demos%20%E2%80%93%20Phlox%20WordPress%20Theme%20site","excerpt":"","featuredImage":false}};
 </script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.14.1' id='elementor-frontend-js'></script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=2.9.0' id='animate-circle-js'></script>
 <script id='elementskit-elementor-js-extra'>
-var ekit_config = {"ajaxurl":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin-ajax.php","nonce":"fbb1847b1a"};
+var ekit_config = {"ajaxurl":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin-ajax.php","nonce":"7925f2c74b"};
 </script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.9.0' id='elementskit-elementor-js'></script>
 <script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.14.1' id='preloaded-modules-js'></script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementskit-lite/modules/controls/assets/js/widgetarea-editor.js?ver=2.9.0' id='elementskit-js-widgetarea-control-editor-js'></script>
-<script id='elementor-admin-bar-js-before'>
-var elementorAdminBarConfig = {"elementor_edit_page":{"id":"elementor_edit_page","title":"Edit with Elementor","href":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/post.php?post=4652&action=elementor","children":{"4896":{"id":"elementor_edit_doc_4896","title":".........novo","sub_title":"Header","href":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/post.php?post=4896&action=elementor"},"4890":{"id":"elementor_edit_doc_4890","title":"02.00 DA MANHA NOVO","sub_title":"Footer","href":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/post.php?post=4890&action=elementor"},"4897":{"id":"elementor_site_settings","title":"Site Settings","sub_title":"Site","href":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/post.php?post=4652&action=elementor#e:run:panel\/global\/open","class":"elementor-site-settings","parent_class":"elementor-second-section"},"4898":{"id":"elementor_app_site_editor","title":"Theme Builder","sub_title":"Site","href":"https:\/\/dev-inovamaquinasbrasil.pantheonsite.io\/wp-admin\/admin.php?page=elementor-app&ver=3.14.1#site-editor\/promotion","class":"elementor-app-link","parent_class":"elementor-second-section"}}}};
-</script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-content/plugins/elementor/assets/js/elementor-admin-bar.min.js?ver=3.14.1' id='elementor-admin-bar-js'></script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
-<script src='https://dev-inovamaquinasbrasil.pantheonsite.io/wp-includes/js/admin-bar.min.js?ver=6.2.2' id='admin-bar-js'></script>
 <!-- end wp_footer -->
 </body>
 </html>
-# inovamaquinasbrasil-02
-edinho
